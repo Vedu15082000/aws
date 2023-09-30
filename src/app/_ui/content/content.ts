@@ -6,8 +6,9 @@ export const importantToKnow = [
 export const quizQuestions = [
   {
     question:
-      "What is the process of converting analog signals into digital data called?",
-    options: ["Encoding", "Decoding", "Encryption", "Modulation"],
+      "What advantages does a database administrator obtain by using the Amazon Relational Database Service (RDS)?
+",
+    options: ["RDS provides 99.99999999999% reliability and durability", "RDS databases automatically scale based on load", " RDS enables users to dynamically adjust CPU and RAM resources", "RDS simplifies relational database administration tasks"],
     correctAnswer: "Encoding",
   },
   {
